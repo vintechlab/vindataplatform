@@ -1,1 +1,1 @@
-# Data platform
+# Data Platform
